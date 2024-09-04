@@ -1,7 +1,8 @@
 Life
 ====
 这是我长期以来一直想构建的东西。它是我生命中重要事件的**时间线**，以一种我脑海中总是想象的方式呈现。曾经有个叫做[**Lifepath.me**](http://dcurt.is/facebook-timelines-and-lifepath-me-4)的东西，但现在它已经消失了。Facebook的时间线呢？呃呃呃...
-所以，就是这样。来看看 [cheeaun的Life](http://cheeaun.life/)。
+
+所以呢，就是这样。来看看 [cheeaun的Life](http://cheeaun.life/)。
 
 特性
 --------
@@ -66,7 +67,7 @@ Life
 
 其他人的Life
 --------------------
-这里有一份来自那些已经 fork 了Life的用户的[Life汇编](https://github.com/cheeaun/life/wiki/Lives)。
+这里有一份来自那些已经 fork 了Life的用户的[Life汇总](https://github.com/cheeaun/life/wiki/Lives)。
 
 许可
 -------
