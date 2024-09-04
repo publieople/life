@@ -36,7 +36,9 @@ Life
 2. `git remote add cheeaun https://github.com/cheeaun/life.git`
 3. `git fetch cheeaun` 然后 `git merge cheeaun/master` 以升级到最新的Life。
 4. `git checkout gh-pages` 然后 `git merge master` 以将更改同步回 GitHub Pages。
+
 [了解更多](https://help.github.com/articles/fork-a-repo)。
+
 对于那些 fork 了早期版本Life的用户，以下是我推荐的步骤（需要一些 Git 技能）：
 1. 备份你的 `life.md`。
 2. 将你的 fork 硬重置到这个仓库的 `master` 分支。
