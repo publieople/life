@@ -1,7 +1,8 @@
-Life
-====
+<div align="center">
+<h1 align="center">Life</h1>
 
-## 这是原 README 的中文翻译/This is the Chinese translation of the original README.
+<h4 align="center"><strong><a href="/">English</a></strong> | 简体中文
+</div>
 
 这是我长期以来一直想构建的东西。它是我生命中重要事件的**时间线**，以一种我脑海中总是想象的方式呈现。曾经有个叫做[**Lifepath.me**](http://dcurt.is/facebook-timelines-and-lifepath-me-4)的东西，但现在它已经消失了。Facebook的时间线呢？呃呃呃...
 
