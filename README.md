@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Life</h1>
 
-<h4 align="center"><strong>English</strong> | <a href="https://github.com/publieople/life/edit/master/README_zh.md">
+<h4 align="center"><strong>English</strong> | <a href="https://github.com/publieople/life/blob/master/README_zh.md">
 简体中文</a> 
 
 </div>
