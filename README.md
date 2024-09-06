@@ -1,5 +1,10 @@
-Life
-====
+<div align="center">
+<h1 align="center">Life</h1>
+
+<h4 align="center"><strong>English</strong> | <a href="https://github.com/publieople/life/blob/master/README_zh.md">
+简体中文</a> 
+
+</div>
 
 This is something that I've wanted to build for a long time. It's a **timeline of important events** in my life, visualized in a way my mind always imagine it. There was something called [**Lifepath.me**](http://dcurt.is/facebook-timelines-and-lifepath-me-4) but now it's gone. How about Facebook timeline? Meh.
 
